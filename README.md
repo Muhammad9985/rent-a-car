@@ -5,13 +5,15 @@
 [![Developed By](https://img.shields.io/badge/Developed%20By-MR%20Software-gold?style=for-the-badge&logo=codefactor)](https://mr-software.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-Muhammad9985-181717?style=for-the-badge&logo=github)](https://github.com/Muhammad9985)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rafique-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-rafique-944b05159/)
-[![Live Demo](https://img.shields.io/badge/Website-mr--software.online-4B0082?style=for-the-badge&logo=googlechrome)](https://mr-software.online/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://cool-pudding-697b6f.netlify.app/)
 
 ---
 
 ## 🌟 Overview
 
 **RENT A CAR** is a state-of-the-art web application engineered for executive vehicle rentals across major metro hubs (Karachi, Lahore, and Islamabad). Built with a ultra-sleek dark glassmorphism aesthetic, dynamic GSAP animations, and seamless 24/7 WhatsApp concierge booking.
+
+🔗 **Live Demo:** [https://cool-pudding-697b6f.netlify.app/](https://cool-pudding-697b6f.netlify.app/)
 
 ---
 
